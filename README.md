@@ -112,7 +112,7 @@ Each model’s performance was evaluated using:
 
 
 
-### **Results**
+## **Results**
 
 The best-performing models for predicting churn were:
 - **Random Forest** with an accuracy of 86.4%, precision of 91%, and recall of 89%.
